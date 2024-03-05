@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682465073 source:d:\data 1\project (ass3)\assi3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
